@@ -78,7 +78,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/ShubhamKumar_resume.pdf"
+              href="/ShubhamKumar_Resume.pdf"
               className="
                 px-7 py-3 rounded-xl
                 bg-black text-white
